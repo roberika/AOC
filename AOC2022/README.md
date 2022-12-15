@@ -7,12 +7,12 @@
 <p>Day 6: Tuning Trouble</p>
 <p>Day 7: No Space Left On Device</p>
 <p>Day 8: Treetop Tree House</p>
-<p> Day 9: mmm</p>
-<p> Day 10: mmm</p>
-<p> Day 11: mmm</p>
-<p> Day 12: mmm</p>
-<p> Day 13: mmm</p>
-<p> Day 14: mmm</p>
+<p> Day 9: Rope Bridge</p>
+<p> Day 10: Cathode-Ray Tube</p>
+<p> Day 11: Monkey in the Middle</p>
+<p> Day 12: Hill Climbing Algorithm</p>
+<p> Day 13: Distress Signal</p>
+<p> Day 14: Regolith Reservoir</p>
 <p> Day 15: mmm</p>
 <p> Day 16: mmm</p>
 <p> Day 17: mmm</p>
